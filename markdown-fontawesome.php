@@ -39,7 +39,7 @@ class MarkdownFontAwesomePlugin extends Plugin
                     ),
                 );
             }
-            elseif (preg_match('/^:fa([srlb]?) fa-([a-zA-Z0-9- ]+):/', $excerpt['text'], $matches))
+            elseif (preg_match('/^:fa([srldb]?) fa-([a-zA-Z0-9- ]+):/', $excerpt['text'], $matches))
             {
                 return array(
                     'extent' => strlen($matches[0]),

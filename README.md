@@ -8,7 +8,7 @@ The **Font Awesome plugin** for [Grav](http://github.com/getgrav/grav) allows yo
 
 ## Prerequisites
 
-The plugin works by looking for colon-wrapped icon names starting with `fas fa-`, `far fa-`, `fal fa-`, or `fab fa-` (or `fa fa-` for Font Awesome 4), and converting them to `<i>` tags. Additional classes (including `fa-spin`, etc.) may be specified by including them at the end. Primarily for legacy reasons, the plugin also supports a shortened prefix format, namely `fa-`, which works for both Font Awesome 4 and 5, and inserts `<i class="fa fas fa-*"></i>`.
+The plugin works by looking for colon-wrapped icon names starting with `fas fa-`, `far fa-`, `fal fa-`, `fad fa-`, or `fab fa-` (or `fa fa-` for Font Awesome 4), and converting them to `<i>` tags. Additional classes (including `fa-spin`, etc.) may be specified by including them at the end. Primarily for legacy reasons, the plugin also supports a shortened prefix format, namely `fa-`, which works for both Font Awesome 4 and 5, and inserts `<i class="fa fas fa-*"></i>`.
 
 This plugin doesn't contain the actual Font Awesome fonts, so make sure you are using a plugin or theme (such as Learn2 or Antimatter) that include the Font Awesome assets.
 
@@ -76,4 +76,4 @@ MIT license. See [LICENSE](LICENSE)
 
 ## Credits
 
-This plugin was originally developed by (yoshikin)[https://github.com/yoshikin]. It was inspired by the python markdown extension [fontawesome-markdown](https://github.com/bmcorser/fontawesome-markdown) and the first version was based on code from the [Grav Markdown Color Plugin](https://github.com/getgrav/grav-plugin-markdown-color).
+This plugin was originally developed by [yoshikin](https://github.com/yoshikin). It was inspired by the python markdown extension [fontawesome-markdown](https://github.com/bmcorser/fontawesome-markdown) and the first version was based on code from the [Grav Markdown Color Plugin](https://github.com/getgrav/grav-plugin-markdown-color).
