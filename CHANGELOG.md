@@ -1,3 +1,9 @@
+# v1.1.1
+## 2019-07-31
+
+1. [](#new)
+    * Added support for duotone icons (`fad`)
+
 # v1.1.0
 ## 2019-06-15
 
@@ -8,7 +14,6 @@
 2. [](#improved)
     * Fixed issues with other colons inline with icons, eg. in times.
     * Documented conflict with Markdown Extra definition lists.
-
 
 # v1.0.1
 ## 2016-04-27
