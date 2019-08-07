@@ -64,7 +64,7 @@ Additional classes can be specified by appending them after the icon name.
 ## Known limitations
 
 - Conflicts with Markdown Extra definition lists. If Markdown Extra is enabled, icons cannnot be placed at the start of a line and must have at least one non-whitespace character preceeding them.
-- Icon names are not validated, so html tags are created even for non-existent icons like `:fa-not-a-real-icon:``
+- Icon names are not validated, so html tags are created even for non-existent icons like `:fa-not-a-real-icon:`.
 
 ## Alternatives
 
