@@ -4,7 +4,7 @@ The **Markdown Font Awesome plugin** for [Grav](http://github.com/getgrav/grav) 
 
 ![Font Awesome flag icon](assets/fa-flag-to-icon.png)
 
-**Note:** [N-Parsons/markdown-fontawesome](https://github.com/n-parsons/grav-plugin-markdown-fontawesome) is the new master repository for this plugin (see [getgrav/grav#2544](https://github.com/getgrav/grav/issues/2544)).
+**Note:** [N-Parsons/grav-plugin-markdown-fontawesome](https://github.com/n-parsons/grav-plugin-markdown-fontawesome) is the new master repository for this plugin (see [getgrav/grav#2544](https://github.com/getgrav/grav/issues/2544)).
 
 ## Prerequisites
 
